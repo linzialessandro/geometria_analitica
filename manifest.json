@@ -1,0 +1,11 @@
+{
+  "name": "Geometria Analitica — Classi Terze",
+  "short_name": "GeoAnalitica 3ª",
+  "description": "Calcolatrice grafica e laboratorio di geometria analitica per le terze (matematica di base).",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e3a8a",
+  "lang": "it"
+}
