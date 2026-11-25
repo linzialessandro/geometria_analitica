@@ -51,3 +51,7 @@ Apri `js/exercises.js` e aggiungi un oggetto all'array `EXERCISES` seguendo la s
 ```
 
 Tipi di risposta supportati in `answerType`: `'rational'`, `'radical'`, `'point'`, `'line'`, `'slope'`, `'boolean'`, `'relation'`.
+
+## Licenza
+
+Distribuito con licenza [MIT](LICENSE).
